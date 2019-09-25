@@ -1,7 +1,7 @@
 <p align="center">
-  <img width="300" height="300" src="1.png">
-  <img width="300" height="300" src="2.png">
-  <img width="300" height="300" src="3.png">
+  <img width="400" height="300" src="1.png">
+  <img width="400" height="300" src="2.png">
+  <img width="400" height="300" src="3.png">
 </p>
 
 # GT2-GamesEngine-UE4
